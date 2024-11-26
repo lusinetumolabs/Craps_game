@@ -34,12 +34,23 @@ python craps_game.py
 
 ## Example Output
 
-Welcome to the Craps game! Press Enter to roll the dice... You rolled: 7 You win! You rolled a 7 or 11.
+Welcome to the Craps game! Press Enter to roll the dice...
+
+You rolled: 7  
+You win! You rolled a 7 or 11.
+
+---
+
+Or, if a "goal" number is set:
+
+You rolled: 5  
+Your goal is 5. Keep rolling until you hit 5 again or roll a 7.
 
 
 ## Requirements
 
-- Python
+- Python installed on your computer, or  
+- Play in an online compiler.
 
 ## License
 
