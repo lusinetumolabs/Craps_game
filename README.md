@@ -50,7 +50,7 @@ Your goal is 5. Keep rolling until you hit 5 again or roll a 7.
 ## Requirements
 
 - Python installed on your computer, or  
-- Play in an online compiler.
+- If you don't have Python installed, try running the script in an online Python interpreter.
 
 ## License
 
